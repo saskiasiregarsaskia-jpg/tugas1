@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daftar Nama Prodi, Dosen dan Mata Kuliah</title>
+</head>
+<body>
+
+<h2>DAFTAR NAMA PRODI, DOSEN DAN MATA KULIAH</h2>
+
+<ol>
+    <li><b>TEKNIK INFORMATIKA</b>
+        <ol type="A">
+            <li>Tati
+                <ul>
+                    <li>Algoritma Pemrograman</li>
+                    <li>Pemrograman Pascal</li>
+                    <li>Bahasa C</li>
+                </ul>
+            </li>
+
+            <li>Riani
+                <ul>
+                    <li>Matematika Diskrit</li>
+                    <li>Kalkulus</li>
+                </ul>
+            </li>
+
+            <li>Rani
+                <ol type="a">
+                    <li>Sistem Berkas</li>
+                    <li>Sistem Informasi Manajemen</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+
+    <li>ILMU KOMUNIKASI</li>
+    <li>MANAJEMEN</li>
+    <li>TEKNIK SIPIL</li>
+    <li>PERANCANGAN WILAYAH DAN KOTA</li>
+</ol>
+
+</body>
+</html>
